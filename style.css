@@ -55,3 +55,29 @@ body {
   padding-bottom: 2px;
   font-size: small;
 }
+
+@media (max-width: 800px) {
+  /* 768px */
+  .header h1 {
+    font-size: 400%;
+  }
+
+  /* .header p {
+    text-indent: 0;
+    font-size: 80%; 
+  } */
+
+  .games {
+    gap: 50px;
+    max-width: 100%;
+  }
+
+  .games img {
+    width: 40vw;
+    max-width: 150px;
+  }
+
+  .caption {
+    font-size: smaller;
+  }
+}

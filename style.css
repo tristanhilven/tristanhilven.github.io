@@ -69,12 +69,12 @@ body {
 
   .games {
     gap: 50px;
-    max-width: 40vw;
+    max-width: 100%;
   }
 
   .games img {
     width: 40vw;
-    max-width: 200px;
+    max-width: 150px;
   }
 
   .caption {

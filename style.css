@@ -59,12 +59,12 @@ body {
 @media (max-width: 1000px) {
   /* 768px */
   .header h1 {
-    font-size: 400%;
+    font-size: 600%;
   }
 
   .header p {
     text-indent: 0;
-    font-size: 80%;
+    font-size: 100%;
   }
 
   .games {

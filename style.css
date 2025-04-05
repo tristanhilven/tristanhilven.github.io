@@ -63,7 +63,7 @@ body {
   }
 
   .header p {
-    text-indent: -722px;
+    text-indent: -720px;
     font-size: 100%;
     margin-top: 60px;
   }
@@ -80,6 +80,6 @@ body {
   }
 
   .caption {
-    font-size: small;
+    font-size: medium;
   }
 }

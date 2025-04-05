@@ -57,21 +57,21 @@ body {
 }
 
 @media (max-width: 1000px) {
-  /* 768px */
   .header h1 {
     font-size: 800%;
     margin-bottom: 0;
   }
 
   .header p {
-    text-indent: -345px;
+    text-indent: -600px;
     font-size: 100%;
-    margin-top: 0;
+    margin-top: 60;
   }
 
   .games {
-    gap: 40px;
+    gap: 50px;
     max-width: 700px;
+    margin-top: 60vw;
   }
 
   .games img {
@@ -80,6 +80,6 @@ body {
   }
 
   .caption {
-    font-size: smaller;
+    font-size: small;
   }
 }

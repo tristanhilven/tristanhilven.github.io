@@ -63,15 +63,15 @@ body {
   }
 
   .header p {
-    text-indent: -600px;
+    text-indent: -725px;
     font-size: 100%;
-    margin-top: 60;
+    margin-top: 60px;
   }
 
   .games {
     gap: 50px;
     max-width: 700px;
-    margin-top: 60vw;
+    margin-top: 20vw;
   }
 
   .games img {
